@@ -1,8 +1,7 @@
 # prodexsys-icons
-
-
 Иконки, используемые в проектах и ПО Prodexsys и Syfora.
 
+**[>> Скачать все ))](https://github.com/jujujej/prodexsys-icons/archive/refs/heads/main.zip)** 
 
 ## /icons-ms
 SVG-иконки для использования в MasterSCADA 4D.
