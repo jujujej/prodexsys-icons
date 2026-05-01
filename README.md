@@ -4,7 +4,7 @@
 **[Скачать всё](https://github.com/jujujej/prodexsys-icons/archive/refs/heads/main.zip)** 
 
 ## /icons-ms
-SVG-иконки для использования в MasterSCADA 4D.
+SVG-иконки для использования в MasterSCADA 4D с готовыми XML
 
 ## /icons
 SVG-иконки веб-сервиса.
